@@ -1,0 +1,285 @@
+status,pickup.name,pickup.phone_number,dropoff.name,pickup.address,pickup.notes,dropoff.notes,created,fee,charge.amount,pickup_ready,dropoff_ready,pickup.detailed_address.state,pickup.detailed_address.city
+delivered,Daryl Duhart,12123210570,Erika Duhart,355 East 46th Street,,Apt 3B or call 7183143229,2019-08-11T22:01:23Z,787,1338,2019-08-11T22:09:23Z,2019-08-11T22:09:23Z,NY,
+delivered,Daryl Duhart,12123210570,Daryl Duhart,355 East 46th Street,,,2019-08-13T13:34:58Z,571,971,2019-08-13T13:42:58Z,2019-08-13T13:42:58Z,NY,
+delivered,Cindy Benjamin,12123983295,Marilena iodanou,"80 West 40th Street, floor 3rd",Small light box ,Messenger center is middle of block on w31rst stew,2019-08-15T15:35:05Z,645,1097,2019-08-15T15:43:05Z,2019-08-15T15:43:05Z,NY,New York
+delivered,Meagan D,19178422317,Erika D,4818 Beverley Road,,,2019-08-19T00:55:44Z,865,1211,2019-08-19T01:03:43Z,2019-08-19T01:03:43Z,NY,
+delivered,Maryse,17183143229,Erika Duhart,663 East 52nd Street,Hang up dress in car ,,2019-08-23T02:00:07Z,973,1654,2019-08-23T02:08:07Z,2019-08-23T02:08:07Z,NY,
+delivered,Jack,18476448892,Jack,2805 Manor Road,Call 8474315602 when here he'll bring it out,Just leave outside the apartment,2019-09-08T20:09:26Z,788,1340,2019-09-08T20:17:26Z,2019-09-08T20:17:26Z,TX,Austin
+delivered,Target,12014990017,Hoboken University Medical Center,100 14th Street,Mindy Martin order #9055196697807,ER department ,2019-09-28T21:36:32Z,862,1207,2019-09-28T21:43:26Z,2019-09-28T21:43:26Z,NJ,Jersey City
+delivered,Syleste Davis,12817735017,Paul Baine,2425 Victory Avenue,Please call Syleste on arrival. ,Please call me on arrival.,2019-10-01T01:35:42Z,590,1003,2019-10-01T01:42:33Z,2019-10-01T01:42:33Z,TX,Dallas
+delivered,Corey,13136706444,Corey cox,28774 Gratiot Avenue,,,2019-11-18T07:24:06Z,991,1387,2019-11-18T08:25:57Z,2019-11-18T08:25:57Z,MI,Roseville
+delivered,John doe,18476448892,Dro nadal,601 West 11th Street,,,2020-03-18T19:42:32Z,571,628,2020-03-18T19:49:29Z,2020-03-18T19:49:29Z,TX,Austin
+delivered,For Ryan Aikens Car Battery,18636828904,Ryan Aikens,1535 North Florida Avenue,AutoZone,Leave at my door. Please call the customer if you are unsure of where to leave the order.,2020-03-24T13:34:25Z,789,868,2020-03-24T14:36:17Z,2020-03-24T14:36:17Z,FL,Lakeland
+canceled,John Considine,15713093080,John Considine,10516 Abana Way,,Leave at my door. Please call the customer if you are unsure of where to leave the order. 217,2020-03-29T02:09:09Z,2102,2312,2020-03-29T02:16:06Z,2020-03-29T02:16:06Z,TX,Austin
+delivered,APR Auto,15125494597,Austin machine shop,5209 Manor Road,,,2020-04-01T16:54:28Z,1744,1918,2020-04-01T17:13:06Z,2020-04-01T17:13:06Z,TX,Austin
+canceled,Maggie Black,17733966183,Maggie Black,612 Hill Lane,,,2020-04-08T17:42:27Z,550,605,2020-04-08T18:02:33Z,2020-04-08T18:02:33Z,IL,Edwardsville
+delivered,Andrew Molina W856118084,12144027977,Robert or Josefina Molina,4038 South Port Avenue,Homedepot pickup order W856118084,"4 lawn patio chairs, enter driveway, leave at door",2020-04-25T19:44:52Z,550,605,2020-04-25T20:46:47Z,2020-04-25T20:46:47Z,TX,Corpus Christi
+delivered,Walmart,17867928209,Jermaine jones,8651 Northwest 13th Terrace,,,2020-04-30T22:11:54Z,2764,3040,2020-04-30T22:18:42Z,2020-04-30T22:18:42Z,FL,Doral
+delivered,Walmart north versailles,14128160301,Lynn Nichols,100 Walmart Drive,,,2020-06-07T15:41:34Z,1853,2038,2020-06-07T16:01:24Z,2020-06-07T16:01:24Z,PA,North Versailles
+delivered,John doe,18476448892,Jack considine,601 West 11th Street,Apt 217 I'll bring out when you're here,In parking lot,2020-06-28T16:53:54Z,777,,2020-06-28T16:58:56Z,2020-06-28T16:58:56Z,TX,Austin
+canceled,Jennifer Quinn,16187130003,Jennifer,3816 West Wembley Lane,,,2020-06-29T05:37:21Z,600,660,2020-06-29T06:39:15Z,2020-06-29T06:39:15Z,MI,Kalamazoo
+canceled,Jennifer Quinn,16187130003,Jennifer Quinn,3816 West Wembley Lane,,,2020-07-06T14:29:34Z,600,660,2020-07-06T15:31:28Z,2020-07-06T15:31:28Z,MI,Kalamazoo
+delivered,Petsmart,15124690501,John Considine,1201 Barbara Jordan Boulevard,Call # and press 0. Order 35406335 for J considine,Call when here I'll come grab,2020-07-26T21:30:01Z,1141,1255,2020-07-26T21:43:50Z,2020-07-26T21:43:50Z,TX,Austin
+delivered,Home depot,15127034110,John Considine,"1200 Barbara Jordan Boulevard, Suite 100,",Pickup code is 785617 pickup is for J considine,Number 217. I'll come down when you call,2020-07-27T22:43:57Z,1098,1208,2020-07-27T22:50:49Z,2020-07-27T22:50:49Z,TX,Austin
+delivered,Bookpeople,18476448892,John Considine,603 North Lamar Boulevard,Curbside pickup for John considine. Number 118875,Number 217,2020-07-30T19:54:54Z,600,660,2020-07-30T20:02:57Z,2020-07-30T20:02:57Z,TX,Austin
+delivered,Am pm animal hospital,15124482676,John Considine,2239 South Lamar Boulevard,Pickup for Jack Considine. Call when there,217,2020-08-02T19:16:58Z,875,,2020-08-02T19:32:49Z,2020-08-02T19:32:49Z,TX,Austin
+delivered,Petsmart,15124690501,John Considine,1201 Barbara Jordan Boulevard,Order 35640570 for considine. May have to go in,217,2020-08-05T00:17:17Z,1141,,2020-08-05T00:24:52Z,2020-08-05T00:24:52Z,TX,Austin
+canceled,John Considine,13012574945,John Considine,601 West 11th Street,Mobile bike shop. Order for Jack considine,I'll come down and grab it! Call when here,2020-08-05T17:08:09Z,600,,2020-08-05T17:15:04Z,2020-08-05T17:15:04Z,TX,Austin
+delivered,Chris,13012574945,John Considine,421 Tillery Street,Mobile bike shop pickup for Jack considine,"I'll come down and grab the bike, call when here",2020-08-05T17:12:44Z,963,,2020-08-05T17:24:48Z,2020-08-05T17:24:48Z,TX,Austin
+delivered,Home depot,15126939811,John Considine,3600 South Interstate 35 Frontage Road,Order for John considine #WJ13883749,#217,2020-08-06T18:23:07Z,1358,1494,2020-08-06T18:30:38Z,2020-08-06T18:30:38Z,TX,Austin
+delivered,John Considine,18476448892,Goodwill donation,601 West 11th Street,217,"Donation center on the side, leave w attendant",2020-08-07T16:35:32Z,600,660,2020-08-07T16:42:27Z,2020-08-07T16:42:27Z,TX,Austin
+delivered,Alyssa,18083765662,Jack considine,1100 South Lamar Boulevard,Aptmnt 1324,Call when here in at the bar,2020-08-09T02:22:56Z,1107,1218,2020-08-09T02:29:50Z,2020-08-09T02:29:50Z,TX,Austin
+delivered,Evandro Nadal,15713093080,Am pm animal hospital,601 West 11th Street,Call when here I'll bring down,Just leave bag outside animal hospital on curb,2020-08-09T16:20:21Z,875,963,2020-08-09T16:27:09Z,2020-08-09T16:27:09Z,TX,Austin
+delivered,meng,18476448892,John Considine,10508 Prezia Drive,"call 936-900-8315, say you're picking up vac",,2020-09-07T21:51:33Z,2368,2605,2020-09-07T22:13:29Z,2020-09-07T22:13:29Z,TX,Austin
+delivered,John Considine,18476448892,John Considine,632 North Lamar Boulevard,Pick up sign for Considine from compusigns,Please leave outside unit 217. Thank you!!,2020-09-21T19:32:13Z,600,660,2020-09-21T19:39:08Z,2020-09-21T19:39:08Z,TX,Austin
+delivered,John Considine,18476448892,Austin library,601 West 11th Street,Apartment 217 books outside the door,"deposit books in drop machine, 2nd street side",2020-09-23T03:02:34Z,600,660,2020-09-23T03:10:43Z,2020-09-23T03:10:43Z,TX,Austin
+delivered,Austin public library,18476448892,John Considine,710 West Cesar Chavez Street,Book pickup for John Considine. Library card number is 1000896104402. Please go to the curbside pickup and call in for my pickup. There will be a number listed,,2020-10-09T22:00:07Z,600,660,2020-10-09T22:07:03Z,2020-10-09T22:07:03Z,TX,Austin
+delivered,Starbucks,18476448892,John Considine,1200 Barton Springs Road,REQUIRES LARGE VEHICLE. My bike had a flat and I had to leave it behind. It's locked next to starbucks. It's a red schwinn traveler and the code to the lock is 5790,Call when here. Many thanks.,2020-10-09T22:02:46Z,659,725,2020-10-09T22:11:02Z,2020-10-09T22:11:02Z,TX,Austin
+delivered,PetSmart,15124690501,John Considine,1201 Barbara Jordan Boulevard,"Order #37480320 for John Considine. Should be in store pickup, call 512 469 0501 if need be",Apartment #217. Can leave outside door,2020-10-11T21:32:15Z,1141,1255,2020-10-11T21:44:07Z,2020-10-11T21:44:07Z,TX,Austin
+delivered,Jack Considine,18476448892,Jack considine,914 North Lamar Boulevard,"If you could go inside and take a picture of their crutch selection and send to 8476448892, I'm trying to determine if they have any",No delivery just need to know about their crutches,2020-10-15T22:03:53Z,600,660,2020-10-15T22:10:49Z,2020-10-15T22:10:49Z,TX,Austin
+delivered,Bailey Watts,14698773904,Kara Stead,"9025 North 121st East Avenue, #100,",Not your grandmas cupcakes order under Bailey Watts,Apt 1815 gate code 0701,2020-10-27T18:19:41Z,744,818,2020-10-27T18:26:35Z,2020-10-27T18:26:35Z,OK,Owasso
+delivered,Dolly,12129876300,Brandon,333 East 100th Street,Triumph Physical Therapy,Triumph Physical Therapy,2020-10-28T13:41:35Z,667,734,2020-10-28T13:48:30Z,2020-10-28T13:48:30Z,NY,New York
+delivered,Phil Smith,17374650207,John Considine,4701 Staggerbrush Road,"Apt #1324 please call me when you're here. Building 13 is on the right about five buildings down from the leasing office. It's after 7
+
+Call 7374650207",Apt 217,2020-10-28T20:55:25Z,1626,1789,2020-10-28T21:10:10Z,2020-10-28T21:10:10Z,TX,Austin
+delivered,Tarragon,13052167788,Asma Aftimos,6623 South Dixie Highway,Pick up Inside store,Knock on door,2020-11-02T16:12:02Z,1492,,2020-11-02T16:18:53Z,2020-11-02T16:18:53Z,FL,Miami
+delivered,Tyla Irving,19293726463,Marjorie Thompson,"334 Lombard Street, #331,",,,2020-11-05T17:57:41Z,2121,2333,2020-11-05T18:04:13Z,2020-11-05T18:04:13Z,PA,Philadelphia
+delivered,Misteri sanders,17136349797,United States post office,3400 Edloe Street,Apt 1305 gate code 0527,Leave in paid area no need to wait in line,2020-11-05T21:35:27Z,600,,2020-11-05T21:42:21Z,2020-11-05T21:42:21Z,TX,Houston
+delivered,Meaghan Sullivan,12064207483,"Bruce Alexander, Vectra Bank",12184 Vail Pass,,Fragile,2020-11-09T15:19:01Z,2870,,2020-11-09T15:33:23Z,2020-11-09T15:33:23Z,CO,Littleton
+canceled,Trisha Cancilla,19548737200,Tint World Smyrna,980 Lynhurst Drive Southwest,,Take to front desk and tell them it’s for the Mercedes e300,2020-11-10T17:15:34Z,2616,2878,2020-11-10T17:25:09Z,2020-11-10T17:25:09Z,GA,Atlanta
+canceled,Michael Worth,19564807172,Laredo municipal housing,3220 East Frost Street,#19 only apt with wheelchair ramps.,,2020-11-10T18:07:57Z,724,796,2020-11-10T19:09:48Z,2020-11-10T19:09:48Z,TX,Laredo
+delivered,Trisha Cancilla,19548737200,Tint World Smyrna,980 Lynhurst Drive Southwest,Please call if you have issues finding me,Take it to the front desk and tell them it's for the Mercedes e300. Please call 954-873-7200 if you have issues finding it. That's my phone,2020-11-10T18:38:16Z,2616,2878,2020-11-10T18:46:10Z,2020-11-10T18:46:10Z,GA,Atlanta
+delivered,Misteri sanders,17136349797,United States postal service,3400 Edloe Street,Gate code 0527 apt number 1305 bring a cart or something,Please take to the paid package area inside on the counter near the ladies.,2020-11-10T20:00:36Z,600,660,2020-11-10T20:07:29Z,2020-11-10T20:07:29Z,TX,Houston
+canceled,Michael Worth,19564804425,Laredo municipal housing,3220 East Frost Street,,,2020-11-10T20:12:43Z,724,796,2020-11-10T21:14:36Z,2020-11-10T21:14:36Z,TX,Laredo
+delivered,Misteri sanders,17136349797,United States postal service,3400 Edloe Street,Gate code 0527 apt 1305,Please take inside to the paid drop area with the ladies in the glass doors thanks you. Bring a cart.,2020-11-10T22:42:51Z,600,660,2020-11-10T22:49:43Z,2020-11-10T22:49:43Z,TX,Houston
+delivered,Michael nicholson,13472282990,Michael nicholson,100 Perimeter Center Place,"Target store pick up
+Can cal me 347-228-2990","Apt 1401
+347-228-2990",2020-11-13T20:20:02Z,1590,1749,2020-11-13T20:26:55Z,2020-11-13T20:26:55Z,GA,Atlanta
+delivered,DollarTree,15193596927,"Bridge FBA, Suite #4",2550 Sandy Plains Road,Ask for the manager and pick up 4 boxes,Drop off the boxes from DollarTree,2020-11-16T17:30:42Z,1084,1192,2020-11-16T17:40:23Z,2020-11-16T17:40:23Z,GA,Marietta
+delivered,Staples,15193596927,"Eleanor Parker, Bridge FBA, Suite #4",2535b Dallas Highway,Printing order 6927277661,Call 678-354-1415 for curbside,2020-11-16T17:34:51Z,1796,1976,2020-11-16T17:47:15Z,2020-11-16T17:47:15Z,GA,Marietta
+delivered,Misteri sanders,17136349797,United States postal service,3400 Edloe Street,Apt 1305 gate code 0527,Drop boxes in the glass doors on the counter. They are paid and you don’t have to stand in line,2020-11-16T22:11:26Z,600,660,2020-11-16T22:18:21Z,2020-11-16T22:18:21Z,TX,Houston
+delivered,Myriam Diomonde,15185127227,Jessica Donald,1234 Queen Street Northeast,,,2020-11-19T20:17:37Z,1420,1562,2020-11-19T20:24:22Z,2020-11-19T20:24:22Z,DC,Washington
+delivered,Dro ladan,15713093050,Dro ladan,601 West 11th Street,"Apartment facing outside, #217",Please dropoff in donation area,2020-11-19T22:55:54Z,600,660,2020-11-19T23:02:50Z,2020-11-19T23:02:50Z,TX,Austin
+delivered,Misteri sanders,17136349797,United States postal service,3400 Edloe Street,Gate code 0527 apt 1305,Leave on counter next to ladies. Already paid.,2020-11-21T16:20:19Z,600,660,2020-11-21T16:30:03Z,2020-11-21T16:30:03Z,TX,Houston
+canceled,Randi Parker,14057120119,John Irwin,505 East Sheridan Avenue,Deliver to 2409,Deliver to 4th floor 2409,2020-11-22T08:42:31Z,600,660,2020-11-22T08:50:32Z,2020-11-22T08:50:32Z,OK,Oklahoma City
+delivered,Elisa M,12093805147,Javier M,4505 Fallbrook Place,,,2020-11-23T14:10:28Z,1795,,2020-11-23T15:12:23Z,2020-11-23T15:12:23Z,CA,Salida
+delivered,Freya Wilcox,16468306989,Freya Wilcox,4319 Astoria Boulevard North,"Call when there, package will be brought outside",,2020-11-23T23:31:46Z,1649,,2020-11-23T23:38:32Z,2020-11-23T23:38:32Z,NY,
+delivered,Misteri sanders,17136349797,United States postal service,3400 Edloe Street,Apt 1305,Leave at desk in prepaid area,2020-11-24T17:39:50Z,600,660,2020-11-24T17:46:43Z,2020-11-24T17:46:43Z,TX,Houston
+delivered,Pat Beasley/ Lynette,15058214200,Pat Beasley,8100 Palomas Avenue Northeast,Two plastic bags labeled with Pat Beasley’s name will be waiting at front desk.,Drop off bags at the front desk of the Neighborhood at Rio Rancho. Analise will be expecting them and give them to Pat.  Please call Teresa @ 410-459-9869 to let me know bags were delivered.,2020-11-24T18:11:05Z,2588,2847,2020-11-24T18:19:33Z,2020-11-24T18:19:33Z,NM,Albuquerque
+delivered,Blush Bakery,14016429470,Tina Lugo,408 Atwells Avenue,Bake shop,White House in the alleyway behind the brick building,2020-11-25T13:57:08Z,600,660,2020-11-25T14:06:55Z,2020-11-25T14:06:55Z,RI,Providence
+delivered,John Considine,18476448892,Joseph,601 West 11th Street,Number 217,Please call 8476448892 when you arrive.,2020-11-28T02:22:32Z,1127,1240,2020-11-28T02:29:28Z,2020-11-28T02:29:28Z,TX,Austin
+canceled,Stripes,19563838200,Jennifer Mount,4420 West University Drive,,,2020-11-28T16:44:45Z,840,924,2020-11-28T16:59:33Z,2020-11-28T16:59:33Z,TX,Edinburg
+delivered,Louis Guerra,12013151687,Jason Bundy,1532 Burcham Drive,Outside garage,"Careful, electronics. Leave on table on front porch for contactless delivery. Text when finished.",2020-11-28T18:01:33Z,1005,1106,2020-11-28T18:10:11Z,2020-11-28T18:10:11Z,MI,East Lansing
+delivered,Erica robbins,19016432137,Erick bunger,4850 Leetsdale Drive,106,He will be outside,2020-11-28T21:02:00Z,1052,1157,2020-11-28T21:08:53Z,2020-11-28T21:08:53Z,CO,Glendale
+delivered,Erica,19016432137,Erick bunger,4850 Leetsdale Drive,106,,2020-11-28T21:43:10Z,1052,1157,2020-11-28T21:49:59Z,2020-11-28T21:49:59Z,CO,Glendale
+delivered,Erika Chavez,15713093080,Erika Chavez,10022 Park Trail,Gate code is 8523,,2020-11-28T23:40:58Z,864,950,2020-11-28T23:47:47Z,2020-11-28T23:47:47Z,TX,Houston
+delivered,Amy’ Hallmark,17406410380,Delores Gregg,2801 Wilma Rudolph Boulevard,Pick up 2 items form my moms birthday,Deliver to front door please,2020-11-29T17:22:00Z,1829,2012,2020-11-29T17:40:51Z,2020-11-29T17:40:51Z,TN,Clarksville
+delivered,Michael Seltenreich,17188083525,Samantha Aini,161 West 106th Street,Apartment 2W,"6th Floor, Bold Realty",2020-11-30T18:25:06Z,1564,,2020-11-30T18:31:49Z,2020-11-30T18:31:49Z,NY,New York
+delivered,John Considine,18476448892,Goodwill donations,601 West 11th Street,"Number 217, the stuff outside the door and if you go inside (it's empty) there should be a box in the front room next to the counter. Please take that too",Please drop off on the donation drop part on the side. I believe you can just leave on the side.,2020-11-30T21:21:03Z,600,660,2020-11-30T21:28:00Z,2020-11-30T21:28:00Z,TX,Austin
+delivered,John Considine,18476448892,The leaf group office,601 West 11th Street,Apartment 119. Envelope taped to the door,Please hand to someone in the office and say you're dropping off unit / mail keys,2020-11-30T21:47:10Z,997,1097,2020-11-30T21:54:06Z,2020-11-30T21:54:06Z,TX,Austin
+delivered,A Rapid Income Tax,19798469748,James Winn,415 Dunn Street,,White SUV in driveway,2020-12-01T14:54:02Z,1812,1993,2020-12-01T15:00:39Z,2020-12-01T15:00:39Z,TX,Bryan
+delivered,Misteri sanders,17136349797,United States postal service,3400 Edloe Street,1305,Please place boxes inside near the ladies they are paid,2020-12-01T21:51:11Z,600,660,2020-12-01T21:58:05Z,2020-12-01T21:58:05Z,TX,Houston
+delivered,John Considine,16823074353,John Considine,601 West 11th Street,Please make sure there is nothing outside unit 217. If there is not just mark as delivered,Please make sure there is nothing outside unit 217. If there is not just mark as delivered,2020-12-02T23:44:56Z,600,660,2020-12-02T23:51:50Z,2020-12-02T23:51:50Z,TX,Austin
+delivered,Misteri sanders,17136349797,United States post office,3400 Edloe Street,Apt 1305 gate code 0527,Pick up at apt take to post office inside to paid package area.,2020-12-03T22:54:29Z,600,660,2020-12-03T23:01:21Z,2020-12-03T23:01:21Z,TX,Houston
+delivered,Carly Levine,19142638501,Emily Brozyna,362 Henry Street,1R,7F,2020-12-04T20:09:13Z,900,990,2020-12-04T20:15:51Z,2020-12-04T20:15:51Z,NY,
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,Apt 1305 gate code 0527.   Text when at door,Pick up from apt drop at post office. Leave in paid area near ladies.,2020-12-04T21:57:33Z,600,,2020-12-04T22:04:30Z,2020-12-04T22:04:30Z,TX,Houston
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,Apt 1305 gate code 0527,Pick up box at apt drop at post office in glass doors near ladies.  item postage is paid,2020-12-05T16:35:20Z,600,660,2020-12-05T16:42:14Z,2020-12-05T16:42:14Z,TX,Houston
+delivered,Steve Cramer,19172175076,Michael Seltenreich,161 West 106th Street,Apt 2S,Apt 3,2020-12-06T02:52:47Z,1501,,2020-12-06T02:59:42Z,2020-12-06T02:59:42Z,NY,New York
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,Apt 1305. please text when at the door,Please pick up boxes from apt and drop to post office in paid area near the ladies.,2020-12-08T21:50:35Z,600,660,2020-12-08T21:57:30Z,2020-12-08T21:57:30Z,TX,Houston
+delivered,Shuffle and Cut,15626949500,FedEx Office Print and Ship Center,"2121 East Lambert Road, #305,","Tell them you are picking up order #602, for Lindsey Sellers","Please bring the package to the shipping desk and tell them it is for Lindsey Sellers, an online order.",2020-12-10T23:57:05Z,944,1038,2020-12-11T00:04:35Z,2020-12-11T00:04:35Z,CA,La Habra
+canceled,White Dove,14806091190,Dana Olague,8461 East McDonald Drive,,,2020-12-11T22:34:39Z,2267,,2020-12-11T22:41:36Z,2020-12-11T22:41:36Z,AZ,Scottsdale
+delivered,Marie Jensen,19258121014,Lam Family,833 Pinon Drive,,Leave box on porch.... Ring bell,2020-12-12T21:43:07Z,1891,2080,2020-12-12T22:44:54Z,2020-12-12T22:44:54Z,CA,Martinez
+canceled,Maria Jensen,19258121014,Lam Family,833 Pinon Drive,,Leave box on porch and ring bell,2020-12-12T22:47:28Z,1891,2080,2020-12-12T23:49:23Z,2020-12-12T23:49:23Z,CA,Martinez
+delivered,Jon Izenstark,13122268144,Jonathan Izenstark,2419 West 14th Street,Ask for the order under my pickup name. GETCHO order.,Food pickup,2020-12-12T23:59:20Z,986,,2020-12-13T00:06:16Z,2020-12-13T00:06:16Z,IL,Chicago
+delivered,Ali @ ACE RV rentals,12027391947,Nicole Bussolati,2875 Towerview Road,Ali has a rolling laptop bag which needs to be delivered to me,Room 300,2020-12-14T18:27:37Z,1448,1593,2020-12-14T18:37:27Z,2020-12-14T18:37:27Z,VA,Herndon
+delivered,American girl store,14254122930,UPS Store,3000 184th Street Southwest,"Need to know pick up couriers name to call, id check required","Doll will need to packaged and label created. The address needed to be sent to is as follows:
+Hannah Payne
+2535 S Gilpin Street
+Denver, Co 80210",2020-12-14T20:15:14Z,1061,1167,2020-12-14T20:23:25Z,2020-12-14T20:23:25Z,WA,Lynnwood
+canceled,Misteri sanders,17136349797,United States post office,3400 Edloe Street,"Gate code 0527 apt 1305
+
+Text when at door. Do not knock.
+Come to this address first 
+
+You will need a cart or help. 11 boxes.",Boxes are paid. Please leave on counter in paid area near ladies inside the Post office. Please text when done for tip.,2020-12-14T22:28:44Z,600,660,2020-12-14T22:35:38Z,2020-12-14T22:35:38Z,TX,Houston
+delivered,Rob Campbell,15036806652,Ibeth Hernandez,3803 Southeast Filbert Street,,,2020-12-15T20:29:19Z,1828,,2020-12-15T20:36:12Z,2020-12-15T20:36:12Z,OR,Milwaukie
+delivered,Fanesha Fabre,13474230478,Thorgy Thor,1218 Bushwick Avenue,Please call,Please call,2020-12-16T17:43:29Z,1185,1304,2020-12-16T17:50:22Z,2020-12-16T17:50:22Z,NY,
+delivered,Lowe’s,16103704860,Matthew OBrien,4535 Perkiomen Avenue,Order #429379987 under Matthew OBrien,Leave on step at top of walkway,2020-12-17T22:19:10Z,1614,1775,2020-12-17T23:21:03Z,2020-12-17T23:21:03Z,PA,Reading
+delivered,Lauren Mitchell,15127668611,Lauren Mitchell,"2700 West Anderson Lane, #410,",Slow North is the name of the store,Look for the white house with a star on it. Please leave package by the front door for contactless delivery. Thanks so much!,2020-12-18T18:10:04Z,1958,2154,2020-12-18T18:16:55Z,2020-12-18T18:16:55Z,TX,Austin
+delivered,Byron D Madkins,13143996106,Chris Walsh,17 Pamrapo Court East,Box is on my front porch.,Pick up from my front porch. Drop off on his front porch. Thanks.,2020-12-18T22:18:43Z,1868,2055,2020-12-18T22:41:33Z,2020-12-18T22:41:33Z,NJ,Glen Rock
+delivered,Boxcar bbq,13122268144,Chris Berry,"2419 West 14th Street, c",Restaurant Booking ID ncvz 141220,,2020-12-18T23:06:30Z,1148,,2020-12-18T23:13:25Z,2020-12-18T23:13:25Z,IL,Chicago
+delivered,Farina Mir,13122268147,Farina Mir,2419 West 14th Street,Ask for the order under my pickup name. GETCHO order.,Entrance to building is on E. Delaware Pl (not on lake shore dr). Please text when arriving. Will meet you at entrance to building.,2020-12-20T22:42:06Z,1343,,2020-12-20T22:48:57Z,2020-12-20T22:48:57Z,IL,Chicago
+delivered,Kelly Parham,14698555277,Vincent Mistretta,"160 Front Street, #1H,",,,2020-12-21T19:29:12Z,1219,,2020-12-21T19:36:05Z,2020-12-21T19:36:05Z,NY,New York
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,"Stop one
+
+Gate code 0527 apt 1305 
+
+Please text when at door do not knock
+a cart is best Boxes are heavy","Stop two
+
+Please deliver boxes to counter I paid postage area near postal worker ladies in glass doors do not stand in line. 
+
+Please text when done for tip.",2020-12-21T22:03:17Z,600,660,2020-12-21T22:10:13Z,2020-12-21T22:10:13Z,TX,Houston
+canceled,7 eleven,19734173500,Nick stoilas,19 Franklin Turnpike,,,2020-12-22T17:42:04Z,703,773,2020-12-22T18:01:08Z,2020-12-22T18:01:08Z,NJ,Mahwah
+canceled,AJ Miller,14047722024,Sankalpa Darga,707 Park Avenue Northeast,Call or text and I will bring out.,Please call or text recipient with questions on delivery.,2020-12-22T18:00:52Z,3403,3743,2020-12-22T18:07:47Z,2020-12-22T18:07:47Z,GA,Atlanta
+delivered,Rachel Morris,13155299093,Sophia Way,802 North Mozart Street,,"Unit 2, Leave at door if no one answers thanks!",2020-12-22T18:33:48Z,1308,1439,2020-12-22T18:40:41Z,2020-12-22T18:40:41Z,IL,Chicago
+delivered,Rachel Morris,13155299093,Lauren Garrison,802 North Mozart Street,,Leave at front door thanks!,2020-12-22T18:35:43Z,1219,1341,2020-12-22T18:42:38Z,2020-12-22T18:42:38Z,IL,Chicago
+canceled,Aj miller,14047722024,Sankalpa Darga,707 Park Avenue Northeast,Call or text 404-772-2024 when you arrive and I'll bring out,Please call or text 4783945363 when here if any questions on delivery,2020-12-22T18:47:15Z,3403,3743,2020-12-22T18:54:11Z,2020-12-22T18:54:11Z,GA,Atlanta
+delivered,Soren Pedersen,17737547429,Soren Pedersen,6157 North Broadway,Beard and Belly / Honeypie (carry out window on the right),Street level door on the right has ‘2’ on it. Doorbell doesn’t work please leave delivery inside that door. Thank you!,2020-12-22T22:49:51Z,1048,,2020-12-22T22:56:46Z,2020-12-22T22:56:46Z,IL,Chicago
+delivered,Aaron Smith,16784850897,Tracie L. Christopherson,6736 Bill Carruth Parkway,"Apartment 1116. Go over 4 speed bumps, turn left. 1st entrance on the right.",The Daily Draft Tap Room and Bar,2020-12-23T16:11:33Z,4447,4892,2020-12-23T16:22:08Z,2020-12-23T16:22:08Z,GA,Hiram
+delivered,Inna zaychik,19176931132,Bettina Turck-Avery,55 Oceana Drive East,Apartment 5e,,2020-12-23T19:33:43Z,1830,2013,2020-12-23T19:46:39Z,2020-12-23T19:46:39Z,NY,
+delivered,Jonathan Rogers,15018372447,Jan Stafford,14 Valley Forge Drive,Anonymous Christmas gift,Please keep sender anonymous,2020-12-24T16:59:16Z,2093,2302,2020-12-24T17:09:30Z,2020-12-24T17:09:30Z,AR,Little Rock
+delivered,Whole Foods,15708091177,Ashley Iddings,4420 Willard Avenue,Will need confirmation email,,2020-12-24T21:58:28Z,828,911,2020-12-24T22:05:36Z,2020-12-24T22:05:36Z,MD,Chevy Chase
+delivered,Rochelle Northrup,14046639221,Patti and Gary Webb,1560 Eversedge Drive,"Since it’s raining, you may want to drive to garage to receive package, 
+Or
+I can bring to you.
+You may want to call me when you arrive.","Please deliver package to doorstep and ring doorbell. The package may be placed under doorbell and you can leave.
+The recipient is capable of coming to the door to retrieve package,
+but Not able to walk around outside.
+Thank-You very much!",2020-12-24T23:38:37Z,4047,4452,2020-12-24T23:52:47Z,2020-12-24T23:52:47Z,GA,Alpharetta
+delivered,Honey Pie (order for eric),16309354839,Eric Pedersen,6157 North Broadway,Restaurant,Ring doorbell and feel free to leave it. Thanks!,2020-12-26T16:33:36Z,1930,,2020-12-26T16:40:34Z,2020-12-26T16:40:34Z,IL,Chicago
+canceled,Box Car BBQ,13122268144,Lauren Solomon,2419 West 14th Street,Ask for the order under my pickup name. GETCHO order.,Please dial 11 at gate and then drop off outside unit C,2020-12-26T19:35:26Z,1290,,2020-12-26T19:42:15Z,2020-12-26T19:42:15Z,IL,Chicago
+delivered,Beard and Belly / Honeypie,16309353223,Soren Pedersen,6157 North Broadway,Pickup order for Soren Pedersen,Street level door #2 on the right. Doorbell doesn’t work please just leave inside that door. Thank you!,2020-12-26T23:51:39Z,1049,1154,2020-12-26T23:58:36Z,2020-12-26T23:58:36Z,IL,Chicago
+delivered,Box Car BBQ,13122268144,Lauren Solomon,2419 West 14th Street,Ask for the order under my pickup name. GETCHO order.,Dial 11 at gate and drop outside C,2020-12-28T00:17:03Z,1368,,2020-12-28T00:23:59Z,2020-12-28T00:23:59Z,IL,Chicago
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,"Stop 1 you are picking up at Apts and taking to post office. 
+gate code 0527 apt 1305
+Make right and drive down over 3 speed bumps apt downstairs on right. Please text when at door. Bring cart.","Stop 2 
+Please take packages inside. They are paid. Please put on counter next to ladies",2020-12-29T21:21:29Z,600,660,2020-12-29T21:28:25Z,2020-12-29T21:28:25Z,TX,Houston
+delivered,Carly Levine,19142638501,Jamie Kaufman,401 2nd Avenue,Items fragile (glass bottles),Apartment 2507,2020-12-29T22:23:03Z,892,981,2020-12-29T22:29:56Z,2020-12-29T22:29:56Z,NY,New York
+delivered,Kelly Chian,17188755530,Kelly Chian,318 Court Street,Pickup at Scotto’s Wine Cellar,Transport right side up please,2020-12-30T15:09:56Z,1660,1826,2020-12-30T15:16:47Z,2020-12-30T15:16:47Z,NY,
+delivered,The Barn Restaurant,18478688041,Julie Pedersen,1016 Church Street,Pick up in back of restaurant,,2021-01-01T01:36:15Z,1038,1142,2021-01-01T01:43:07Z,2021-01-01T01:43:07Z,IL,Evanston
+delivered,Beard and belly / Honeypie,17737547429,Soren Pedersen,6157 North Broadway,"Food for Soren Pedersen. 
+Pickup at the Honeypie window on the right.",APT 2 - Street level door #2 on the right. Doorbell does not work please just leave delivery inside that door. Thank you !,2021-01-01T18:14:56Z,1049,,2021-01-01T18:21:51Z,2021-01-01T18:21:51Z,IL,Chicago
+canceled,Misteri sanders,17136349797,Post office,3400 Edloe Street,"COME HERE FIRST.
+$15 tip!!! 
+
+Apt 1305 
+Gate code 0527 
+First right and down 3 speed pumps. Apt on right side","Must be there before 12 noon
+Please take to paid area.",2021-01-02T17:32:31Z,600,660,2021-01-02T17:42:56Z,2021-01-02T17:42:56Z,TX,Houston
+delivered,Jeff Tonge,13122268144,Chris Tonge,2419 West 14th Street,"Ask for the order under my pickup name. GETCHO order. Boxcar bbq
+
+Order ID: 
+BKSJ-311220","Food, please keep upright",2021-01-02T23:04:22Z,1106,,2021-01-02T23:11:17Z,2021-01-02T23:11:17Z,IL,Chicago
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,"Stop 1
+Gate code 0527
+Apt 1305 text at door. Dont knock 
+Make first right then come down 3 speed bumps. Apt is downstairs bldg 13","Stop 2
+
+Take package inside post office to the left in the double doors the ladies will tell you where to put it it’s paid.",2021-01-05T22:17:16Z,600,660,2021-01-05T22:25:04Z,2021-01-05T22:25:04Z,TX,Houston
+canceled,Dave's movie center,12079477810,Omar,281 Hammond Street,Adult store (substitute item for any brand or package size if unavailable).,Apt. A,2021-01-07T23:16:21Z,772,849,2021-01-07T23:27:22Z,2021-01-07T23:27:22Z,ME,Bangor
+delivered,Beard and belly,16309354839,Eric Pedersen,6157 North Broadway,Pickup for eric Pedersen,Ring doorbell thanks,2021-01-09T00:45:55Z,1930,2123,2021-01-09T00:52:51Z,2021-01-09T00:52:51Z,IL,Chicago
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,"Stop 1
+Gate code 0527
+First right down 3 speed bumps
+Apt 1305","Stop 2 
+Please drop inside double doors to the left. Tell the clerks it is paid for they tell you to put it on the counter. Thanks",2021-01-09T16:01:58Z,600,660,2021-01-09T16:09:59Z,2021-01-09T16:09:59Z,TX,Houston
+canceled,Ulta beauty,15622879731,Kevin Hernandez,8620 Washington Boulevard,"Curbside pick up order# K167003972
+Kevin Hernandez
+
+
+Cologne yves Saint Laurent",Txt me before to come out,2021-01-09T22:41:46Z,848,933,2021-01-09T22:48:31Z,2021-01-09T22:48:31Z,CA,Pico Rivera
+delivered,Beard and Belly / Honeypie,17737547429,Soren Pedersen,6157 North Broadway,Pickup for Soren Pedersen,When you arrive please see the street-level door on the right with ‘2’ on the door. Doorbell doesn’t work please just leave inside that door. Thank you,2021-01-10T00:18:04Z,1049,1154,2021-01-10T00:24:57Z,2021-01-10T00:24:57Z,IL,Chicago
+canceled,Torie Amrani,19149075379,Shawne Merriman- Suite 316,1530 East 25th Street,Please honk at gates to open and drive inside please.,Please leave on doorstep if not home,2021-01-13T19:01:27Z,2063,2269,2021-01-13T19:08:48Z,2021-01-13T19:08:48Z,CA,Los Angeles
+delivered,Carly Levine,19142638501,Julie Stewart-Binks,401 2nd Avenue,Box is at the front desk,Apartment #616,2021-01-13T20:19:54Z,779,857,2021-01-13T20:26:48Z,2021-01-13T20:26:48Z,NY,New York
+delivered,Tuscany il Ristorante,18476448892,Jordan Furniss,968 South Westlake Boulevard,It's #4. Tell the restaurant you are picking up a gift card for Jordan Furniss,Please leave the gift card in the mailbox,2021-01-13T22:16:40Z,1414,1555,2021-01-13T22:23:31Z,2021-01-13T22:23:31Z,CA,Westlake Village
+delivered,Starbucks,18476448892,Jack considine,"1515 Sheridan Road, building 4",Coffee order for jack considine #70672496,Call when here I'm at door,2021-01-15T00:44:48Z,665,732,2021-01-15T00:52:16Z,2021-01-15T00:52:16Z,IL,Wilmette
+delivered,Dro ladan,15713093080,Dro ladan,4525 Guadalupe Street,Knock on the door and Lauren will hand you envelope.,Call me if you need help finding the apartment number.,2021-01-15T20:29:30Z,1045,1150,2021-01-15T20:36:26Z,2021-01-15T20:36:26Z,TX,Austin
+delivered,Dominos pizza,16086580223,John Considine,315 West 5th Street,"Pizza for jack considin. Order #45907. Say you are picking up for me, feel free to sign on my behalf",Unit 217. You can. Leave outside the door and knock thanks!!,2021-01-17T04:44:00Z,600,660,2021-01-17T04:50:52Z,2021-01-17T04:50:52Z,TX,Austin
+canceled,7-eleven,15708091177,Ashley Iddings,7820 Wisconsin Avenue,,,2021-01-18T23:01:21Z,648,713,2021-01-18T23:08:16Z,2021-01-18T23:08:16Z,MD,Bethesda
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,"Stop 1
+Gate code 0527 
+Apt 1305
+Make first right come down 3 speed bumps I am downstairs in the courtyard to your right
+
+I recommend a cart","Stop 2 
+All boxes are paid please leave inside second set of doors to the left on the counter near the postal workers",2021-01-19T15:59:42Z,600,660,2021-01-19T16:06:38Z,2021-01-19T16:06:38Z,TX,Houston
+delivered,Marta Considine,18472202804,Jack Considine,6406 North Interstate 35 Frontage Road,Please find up order for Marta considine from easy Tiger,,2021-01-20T22:52:56Z,1218,1340,2021-01-20T23:00:29Z,2021-01-20T23:00:29Z,TX,Austin
+delivered,DollarTree at Sprayberry Square,15193596927,Eleanor Rose,2550 Sandy Plains Road,"Picking up 4 boxes from DollarTree. Please go into the store and ask for my boxes. 2 of the boxes are glass, so be be careful when handling them.","2 of the 4 boxes are wine glasses and fragile, so please be careful when handling the boxes.  Thank you.",2021-01-21T18:59:19Z,1084,1192,2021-01-21T19:07:35Z,2021-01-21T19:07:35Z,GA,Marietta
+delivered,David Rittof,13122268144,David Rittof,2419 West 14th Street,"Ask for the order under David Rittof. GETCHO order.
+
+Booking ID: TXZM-230121
+
+pickup between 6pm and 7pm",Apt. 15A],2021-01-23T23:45:10Z,1195,,2021-01-23T23:51:57Z,2021-01-23T23:51:57Z,IL,Chicago
+delivered,Beard and belly / Honeypie,17737547429,Soren Pedersen,6157 North Broadway,Pickup food for Soren Pedersen,Street level door on the right - has 2 on it. Doorbell does not work please open and leave inside that door.,2021-01-24T00:27:48Z,1049,1154,2021-01-24T00:34:39Z,2021-01-24T00:34:39Z,IL,Chicago
+canceled,Alexis Pantoja,12149989937,Alexis Pantoja,7601 Churchill Way,Apt 216 bldg 2 gatecode #0216 must enter to right hand side.,,2021-01-25T20:51:54Z,600,660,2021-01-25T20:58:50Z,2021-01-25T20:58:50Z,TX,Dallas
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,"Gate code 0527 
+Apt 1305 
+Make first right, come down 3 speed bumps and apt to the right downstairs",Please take boxes to paid area in double doors,2021-01-26T18:20:03Z,600,660,2021-01-26T18:26:57Z,2021-01-26T18:26:57Z,TX,Houston
+delivered,Staples,15193596927,Eleanor Rose,2535b Dallas Highway,Pick up printing order for Eleanor Parker,"Unit 4, ask for Trey.",2021-01-27T18:42:12Z,1796,988,2021-01-27T18:56:17Z,2021-01-27T18:56:17Z,GA,Marietta
+canceled,Dro Nadal,15713093080,Dro Nadal,1600 Amphitheatre Parkway,,,2021-01-28T00:23:39Z,640,704,2021-01-28T00:30:32Z,2021-01-28T00:30:32Z,CA,Mountain View
+delivered,Parkside Grill,16505299007,Anne Hwang,884 Portola Road,Takeout food order for Anne Hwang will be ready at 6pm,Please leave our delivery at our door. Thank you!,2021-01-28T01:45:42Z,640,704,2021-01-28T01:56:48Z,2021-01-28T01:56:48Z,CA,Portola Valley
+canceled,Seamus Waterman,16302020106,Seamus Waterman,1111 Collins Avenue,Order is under my name,Unit number 2907,2021-01-28T23:39:53Z,3481,,2021-01-28T23:46:52Z,2021-01-28T23:46:52Z,FL,Miami Beach
+delivered,Scott Wood-Prince,13122268144,Scott Wood-Prince,2419 West 14th Street,Ask for the order under my pickup name. GETCHO order. CXZV-270121,,2021-01-28T23:48:37Z,1000,,2021-01-28T23:55:28Z,2021-01-28T23:55:28Z,IL,Chicago
+delivered,Amerikas,17086134254,Leibig,734 Lake Street,Please pick up dinner,Text and contactless drop off,2021-01-30T01:22:35Z,662,728,2021-01-30T01:29:48Z,2021-01-30T01:29:48Z,IL,Oak Park
+delivered,Target,13108669394,Jack Considine,901 East 5th Street,"Go to the Target order pick up counter 
+Find order for Jack Considine 
+Order ID: 1067614742027
+
+I will text you my barcode needed for pick up","Apartment 217, walk up stairs. Call when here",2021-01-31T17:00:17Z,655,721,2021-01-31T17:07:07Z,2021-01-31T17:07:07Z,TX,Austin
+delivered,People’s Pharmacy,15124599090,Lauren Mitchell,4018 North Lamar Boulevard,I need my order #UJFGV8CB61 picked up from People’s Pharmacy on North Lamar,My house is the white one with a star on it. You can leave the order by the front door for contactless delivery and text me or knock when it’s here. Thanks so much!,2021-01-31T18:20:07Z,1223,1345,2021-01-31T18:28:09Z,2021-01-31T18:28:09Z,TX,Austin
+canceled,Boxcar BBQ,13122268144,Robert Perlman,"2419 West 14th Street, c",Package of food for Perlman,Please leave with doorstaff,2021-01-31T23:41:34Z,1061,1167,2021-01-31T23:54:17Z,2021-01-31T23:54:17Z,IL,Chicago
+canceled,BOXCAR BBQ,13122268144,Robert Perlman,"2419 West 14th Street, c",Order under name ROBERT PERLMAN,Please leave with doorstaff,2021-01-31T23:56:31Z,1061,1167,2021-02-01T00:04:55Z,2021-02-01T00:04:55Z,IL,Chicago
+canceled,Evandro Nadal,15713093080,Evandro Nadal,2419 West 14th Street,,,2021-02-01T00:50:27Z,600,660,2021-02-01T01:02:46Z,2021-02-01T01:02:46Z,IL,Chicago
+delivered,Cassidy,16086580223,Cassidy,501 West 15th Street,Pick up the order for Cassidy — one iced latte,Leave outside apartment 217 please! Text or call when you’re here.,2021-02-02T15:29:54Z,600,660,2021-02-02T15:36:50Z,2021-02-02T15:36:50Z,TX,Austin
+canceled,Audra metz,16027680256,Audra metz,4502 East Oak Street,,,2021-02-02T18:38:36Z,998,1098,2021-02-02T18:45:29Z,2021-02-02T18:45:29Z,AZ,Phoenix
+canceled,Audra metz,16027680256,Audra metz,4502 East Oak Street,,Apt 2005. We are at Costco with a brand new 75” tv just need it dropped off at our home,2021-02-02T19:15:39Z,998,1098,2021-02-02T19:23:25Z,2021-02-02T19:23:25Z,AZ,Phoenix
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,"Gate code 0527
+Apt 1305
+
+Please make first right and come down 3 speed bumps. My apt is on the right on the side opposite the fire lane closer to parking spaces. Down stairs",Please take to paid area near workers. Drop on counter the boxes are paid for,2021-02-02T22:30:28Z,600,660,2021-02-02T22:37:32Z,2021-02-02T22:37:32Z,TX,Houston
+delivered,Ondori Japanese food,16503272222,Anne Hwang,2111 El Camino Real,"Takeout order for ""Anne H"" will be ready at 5:40pm.",Please leave the bag outside our door. Thank you :),2021-02-03T01:16:16Z,2492,2056,2021-02-03T01:23:10Z,2021-02-03T01:23:10Z,CA,Palo Alto
+canceled,Evandro nad,15713093080,Dro,1230 Park Avenue,,,2021-02-03T14:47:39Z,855,941,2021-02-03T14:54:35Z,2021-02-03T14:54:35Z,NY,New York
+delivered,Meeta Anand,19177575488,Ngozi Okaro,1230 Park Avenue,Pick up with doorman.,Unit #908. Drop off with doorman acceptable.,2021-02-03T18:03:34Z,1204,1324,2021-02-03T18:10:29Z,2021-02-03T18:10:29Z,NY,New York
+canceled,Audra metz,16027680256,Audra metz,6730 East McDowell Road,We need this 75” tv transported back to Costco because there is a dent in the back. We are then picking up a new one and need the new one transported back home. Costco is reimbursing me for this cost,Costco,2021-02-03T19:41:20Z,941,1035,2021-02-03T19:49:18Z,2021-02-03T19:49:18Z,AZ,Scottsdale
+delivered,Audra metz,16027680256,Audra metz,6640 East McDowell Road,Apt 2005. We have a brand new 75” tv that needs to be returned to Costco bc it has a dent. Need to pick up a new one too and have it transported back,Costco,2021-02-03T19:52:57Z,945,1040,2021-02-03T19:59:53Z,2021-02-03T19:59:53Z,AZ,Scottsdale
+delivered,Security,16462506090,Michele Geminder,30 West End Avenue,Pick up book at security window for Oliver Lipman,12 d,2021-02-03T20:05:53Z,630,693,2021-02-03T20:12:48Z,2021-02-03T20:12:48Z,NY,New York
+delivered,Misteri sanders,17136349797,Post office,3400 Edloe Street,"Apt 1305 
+Gate code 0527
+
+Please make first right and drive down 3 speed bumps. My unit is on the right near parking not the fire lane, I’m downstairs.",Please take boxes inside the second doors near workers and place on counter they are paid for. No need to stand in line,2021-02-03T22:04:00Z,600,660,2021-02-03T22:10:55Z,2021-02-03T22:10:55Z,TX,Houston
+canceled,Kimberly Ballard,15026084682,Kimberly Ballard,"1475 Holcomb Bridge Road, #131",Park curbside in front of store with blinkers on.  Bench will be brought out to curb and owner will help load into truck.,Owner will help unload bench in driveway.  Does not need to be taken in house.,2021-02-05T18:32:59Z,1558,1714,2021-02-05T18:41:24Z,2021-02-05T18:41:24Z,GA,Roswell
+delivered,Melissa D’Andrea,13478362623,Lisa Martinez,480 Concord Avenue,Apt 4i. Call if you can’t get upstairs,,2021-02-05T19:23:16Z,1400,1540,2021-02-05T19:31:24Z,2021-02-05T19:31:24Z,NY,
+canceled,Lindsey,14043958660,Izzy,421 Classon Avenue,"Unit #2, picking up one small paper bag",Please call to drop off,2021-02-05T19:31:47Z,929,1022,2021-02-05T19:38:41Z,2021-02-05T19:38:41Z,NY,
+delivered,Lindsey,14043958660,Izzy,404 Classon Avenue,"Unit #2, please call and I can bring package down to you",Please call to drop off!,2021-02-05T20:07:41Z,886,975,2021-02-05T20:14:33Z,2021-02-05T20:14:33Z,NY,
+delivered,Lindsey,14043958660,Meredith,404 Classon Avenue,Unit #2,Please call when dropping off!,2021-02-05T21:03:19Z,819,901,2021-02-05T21:10:14Z,2021-02-05T21:10:14Z,NY,
+delivered,Boxcar BBQ/EL Ideas,13122268144,Nikki Schutz,"2419 West 14th Street, c",Pick up food/mask order for Nikki Schutz at Boxcar BBQ/EL Ideas,"Unit 501, fine to leave on lobby table with door staff, thanks!",2021-02-05T23:49:58Z,858,,2021-02-05T23:57:01Z,2021-02-05T23:57:01Z,IL,Chicago
+delivered,Boxcarbbq,13122268144,Mike,"2419 West 14th Street, c",Order for mike bonney,Call me I will come down,2021-02-06T23:45:05Z,733,,2021-02-06T23:53:29Z,2021-02-06T23:53:29Z,IL,Chicago
+delivered,Beard and Belly,17737547429,Soren pedersen,6157 North Broadway,"Pickup window is at ‘Honeypie’ next door. 
+Pickup for Soren Pedersen",Street level door #2 on the right. Doorbell doesn’t work please just leave inside that door at base of stairs.,2021-02-07T22:01:46Z,1049,1154,2021-02-07T22:08:42Z,2021-02-07T22:08:42Z,IL,Chicago
+canceled,HONEYPIE,17737547429,Soren pederson,6155 North Broadway,Pickup is for SOREN PEDERSON,Street level #2 on the right. Doorbell does not work. Please just leave inside that door at the base of the stairs.,2021-02-07T22:49:54Z,1049,1154,2021-02-07T22:56:50Z,2021-02-07T22:56:50Z,IL,Chicago
+delivered,Misteri sanders,17136349797,United States post office,3400 Edloe Street,"This is best with a wagon or cart
+Gate code 0527
+Apt 1305
+
+Please make first right
+Drive down 3 speed bumps
+Bldg is on the right
+Park near the cars NOT the fire lane
+I’m closer to that side
+Apt downstairs","Please take boxes into the post office
+Make a left and then right into the doors and leave on the counter 
+The boxes are paid DONT stand in line",2021-02-08T20:10:35Z,600,660,2021-02-08T20:17:28Z,2021-02-08T20:17:28Z,TX,Houston
+delivered,Misteri sanders,17136349797,United States postal service,3400 Edloe Street,"This is best with a wagon or cart
+Gate code 0527
+Apt 1305
+
+Please make first right
+Drive down 3 speed bumps
+Bldg is on the right
+Park near the cars NOT the fire lane
+I’m closer to that side
+Apt downstairs","Please take inside 
+Make a left and a right into the doors
+Please leave on counter packages are paid do not stand in line. The workers will direct you to the paid area. Thank you",2021-02-08T21:12:47Z,600,660,2021-02-08T21:19:42Z,2021-02-08T21:19:42Z,TX,Houston
+delivered,"Target, suite 140",18476448892,Jack,901 East 5th Street,"The order is under Jack Considine. I am texting you a barcode you will need to pickup the order, and I will add your name",Unit 217,2021-02-09T19:49:18Z,656,722,2021-02-09T19:56:14Z,2021-02-09T19:56:14Z,TX,Austin
+delivered,Target,18476448892,John Considine,2505 Guadalupe Street,Order pickup for cassidy mcdonald. Number 9167760512792. I'll text the barcode and add your name,Unit 217,2021-02-09T20:33:51Z,637,701,2021-02-09T20:40:47Z,2021-02-09T20:40:47Z,TX,Austin
+delivered,Misteri sanders,17136349797,United States postal service,3400 Edloe Street,"Gate code 0527
+Apt 1305
+
+Please make first right
+Drive down 3 speed bumps
+Bldg is on the right
+Park near the cars NOT the fire lane
+I’m closer to that side
+Apt downstairs",Please take inside to paid parcel area near the employees,2021-02-10T21:25:56Z,600,660,2021-02-10T21:32:50Z,2021-02-10T21:32:50Z,TX,Houston
